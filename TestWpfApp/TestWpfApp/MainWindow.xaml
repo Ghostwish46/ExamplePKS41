@@ -9,6 +9,7 @@
     <Grid>
         <Button Content="Hello"></Button>
         <TextBlock Text="Hello"></TextBlock>
+        <TextBlock Text="Hello2"></TextBlock>
         
     </Grid>
 </Window>
