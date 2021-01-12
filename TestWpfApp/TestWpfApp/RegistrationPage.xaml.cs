@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace TestWpfApp
 {
     /// <summary>
-    /// Interaction logic for LoginPage.xaml
+    /// Interaction logic for RegistrationPage.xaml
     /// </summary>
-    public partial class LoginPage : Page
+    public partial class RegistrationPage : Page
     {
-        public LoginPage()
+        public RegistrationPage()
         {
             InitializeComponent();
         }
