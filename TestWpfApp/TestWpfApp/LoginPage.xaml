@@ -12,7 +12,7 @@
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
             <TextBlock Text="sdafdsf"></TextBlock>
             <TextBlock Text="dfsfdsf"></TextBlock>
-            <Button Content="Start"></Button>
+            <Button Content="Start" Name="AuthButton" Click="AuthButton_Click"></Button>
         </StackPanel>
     </Grid>
 </Page>

@@ -24,5 +24,10 @@ namespace TestWpfApp
         {
             InitializeComponent();
         }
+
+        private void AuthButton_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Hello");
+        }
     }
 }
